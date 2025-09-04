@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋  
 
-<!--
-**manu4712/manu4712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Full-Stack Web Developer**  
 
-Here are some ideas to get you started:
+Currently following the **Defence course** to stay consistent, build strong fundamentals, and get hackathon-ready.  
+Goal → become a confident full-stack developer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech (learning & building)
+- HTML, CSS, JavaScript  
+- React, Node.js, MongoDB (coming soon)  
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/manoj-kumar-a97a85381/) • [X](https://x.com/manojdev_4712) • [GitHub](https://github.com/manu4712)  
