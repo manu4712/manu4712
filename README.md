@@ -13,5 +13,4 @@ Goal → become a confident full-stack developer.
 
 ---
 
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/manoj-kumar-a97a85381/) • [X](https://x.com/manojdev_4712) • [GitHub](https://github.com/manu4712)  
+
