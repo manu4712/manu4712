@@ -2,7 +2,7 @@
 
 🎯 Aspiring **Full-Stack Web Developer**  
 
-Currently following the **Chai code Cohort** to stay consistent, build strong fundamentals, and get hackathon-ready.  
+Currently following the **scrimba full stack developer path** to stay consistent, build strong fundamentals, and get hackathon-ready.  
 Goal → become a confident full-stack developer.  
 
 ---
